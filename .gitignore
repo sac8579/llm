@@ -4,3 +4,7 @@
 *.txt
 *.json
 *.gz
+*.en
+*.fr
+*.pyc
+*.csv
