@@ -8,3 +8,8 @@
 *.fr
 *.pyc
 *.csv
+*.pt
+*.bin
+*.safetensors
+*.pth
+*.model
