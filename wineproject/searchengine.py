@@ -32,7 +32,7 @@ def load_data():
 # --- Load model ---
 @st.cache_resource
 def load_model():
-    return SentenceTransformer("fine-tuned-minilm")
+    return SentenceTransformer("SpencerCreveling99/fine-tuned-minilm-wine")
 
 model = load_model()
 wine_df = load_data()
